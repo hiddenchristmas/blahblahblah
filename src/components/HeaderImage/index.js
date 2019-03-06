@@ -2,7 +2,7 @@ import React from 'react';
 import Link from 'gatsby-link';
 
 import Wrapper from './Wrapper';
-import imgSrc from '../../squaregenius.png';
+import imgSrc from '../../main3.png';
 
 function HeaderImage() {
   return (
@@ -15,3 +15,4 @@ function HeaderImage() {
 }
 
 export default HeaderImage;
+/**/
