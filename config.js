@@ -1,7 +1,7 @@
 module.exports = {
   title: 'blahblahblah', // Required
   author: 'hiddenchristmas', // Required
-  description: 'Web Developer',
+  description: 'Web Programmer',
   primaryColor: '#FFCC7A', // Required
   showHeaderImage: true,
   showShareButtons: true,
