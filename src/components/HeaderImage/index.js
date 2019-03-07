@@ -2,7 +2,7 @@ import React from 'react';
 import Link from 'gatsby-link';
 
 import Wrapper from './Wrapper';
-import imgSrc from '../../squaregenius.png';
+import imgSrc from '../../pythonsimpson.png';
 
 function HeaderImage() {
   return (
