@@ -3,6 +3,7 @@ title: This post means nothing
 date: "2018-03-07"
 featuredImage: "./genius.jpg"
 ---
+
 <!-- end -->
 
 ## This post is for myself as an example of a markdown.
