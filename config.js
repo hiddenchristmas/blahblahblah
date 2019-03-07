@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'blahblahblah', // Required
+  title: 'Something Python', // Required
   author: 'hiddenchristmas', // Required
   description: 'Something Python',
   primaryColor: '#86d83f', // Required
