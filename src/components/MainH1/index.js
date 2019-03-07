@@ -1,7 +1,8 @@
 import styled from 'styled-components';
+import userConfig from '../../../config';
 
-const H1 = styled.h1`
-  color: #505050;
+const MainH1 = styled.h1`
+  color: ${userConfig.secondColor};
   font-size: 35px;
   line-height: 1.5;
   margin: 0;
@@ -9,4 +10,4 @@ const H1 = styled.h1`
   text-align: center;
 `;
 
-export default H1;
+export default MainH1;
