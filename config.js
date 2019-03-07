@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Something Python', // Required
+  title: 'blahblahblah', // Required
   author: 'hiddenchristmas', // Required
   description: 'Something Python',
   primaryColor: '#86d83f', // Required
-  secondColor: '#505050', // Required
+  secondColor: '#505050',
   showHeaderImage: true,
-  showShareButtons: true,
+  showShareButtons: false,
   postsPerPage: 5, // Required
   social: {
     // website: 'https://ryanfitzgerald.ca',
@@ -14,5 +14,5 @@ module.exports = {
     // linkedin: 'https://ca.linkedin.com/in/ryanafitzgerald',
   },
   // pathPrefix: '/devblog',
-  siteUrl: 'https://ryanfitzgerald.github.io/devblog/',
+  siteUrl: 'https://hiddenchristmas.netlify.com',
 };
