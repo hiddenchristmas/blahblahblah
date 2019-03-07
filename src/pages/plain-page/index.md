@@ -1,14 +1,12 @@
 ---
-title: First Post
+title: This post means nothing
 date: "2018-03-07"
 featuredImage: "./genius.jpg"
 ---
 
-A web programmer writes something on python. 
+## This post is for myself as an example of a markdown.
 
 <!-- end -->
-
-## This post is for myself as an example of a markdown.
 
 Sed urna justo, scelerisque consectetur pharetra vitae, facilisis vel diam. Maecenas auctor enim a volutpat mattis. Morbi sit amet turpis a purus ornare pellentesque sit amet et ipsum. Suspendisse imperdiet mi at felis aliquet, nec consectetur arcu dignissim. Sed vitae diam maximus, maximus diam ac, scelerisque mi.
 
